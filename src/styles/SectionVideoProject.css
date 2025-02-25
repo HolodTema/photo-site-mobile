@@ -1,0 +1,19 @@
+
+.div_section_video_proj {
+    padding: 10px 0;
+}
+
+.div_section_video_proj_video {
+    margin: 10px 10px 0 10px;
+}
+
+.iframe_video_proj_video {
+    width: 100%;
+    height: 300px;
+}
+
+.p_section_video_proj_text {
+    padding: 10px;
+    font-size: 14px;
+    color: #ccc;    
+}
