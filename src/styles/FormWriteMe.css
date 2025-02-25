@@ -1,0 +1,136 @@
+
+.div_form {
+    background-color: #121212;
+    padding: 20px 0;
+}
+
+.div_form_name_phone {
+    margin: 20px 10px 0 10px;
+}
+
+.div_form_name_error {
+    position: relative;
+}
+
+.div_form_name {
+}
+
+.label_form_name {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.input_form_name {
+    font-size: 16px;
+    width: 250px;
+    background-color: transparent;
+}
+
+.div_form_name_line {
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    height: 2px;
+    width: 250px;
+    background-color: white;
+}
+
+.p_form_name_error {
+    color: red;
+    transition: color 0.3s;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/*****************************/
+.div_form_phone_error {
+    margin-top: 10px;
+    position: relative;
+}
+
+.div_form_phone {
+
+}
+
+.label_form_phone {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.input_form_phone {
+    font-size: 16px;
+    width: 215px;
+    background-color: transparent;
+
+}
+
+.div_form_phone_line {
+    position: absolute;
+    height: 2px;
+    background-color: white;
+    width: 215px;
+    left: 75px;
+    top: 20px
+}
+
+.p_form_phone_error {
+    height: 20px;
+    color: red;
+    transition: color 0.3s;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+/********************************/
+.div_form_message_error {
+    margin-top: 20px;
+    padding: 0 20px 10px 10px;
+}
+
+.div_form_message {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.label_form_message {
+    font-size: 16px;
+}
+
+.input_form_message {
+    font-size: 16px;
+    background-color: #0e0e0e;
+    border: 2px white solid;
+    padding: 5px;
+}
+
+.p_form_message_error {
+    height: 20px;
+    color: red;
+    transition: color 0.3s;
+    font-size: 14px;
+    margin-top: 5px
+}
+
+/*************************************/
+.div_button_form {
+    margin-top: 20px;
+    padding: 0 10px 10px 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+
+.a_button_form {
+    padding: 8px 10px;
+    background-color: #0e0e0e;
+    text-transform: uppercase;
+    border: 2px white solid;
+}
+
+.p_form_success {
+    color: green;
+    font-size: 14px;
+}

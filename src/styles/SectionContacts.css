@@ -1,0 +1,11 @@
+
+.div_large_contacts_items {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px 10px 10px 20px;
+}
+
