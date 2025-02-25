@@ -10,6 +10,6 @@ import SectionPhotoProject from "./SectionPhotoProject";
 
 export default function Main() {
     return (
-        <SectionPhotoProject type="0"/>
+        <SectionPhotoProject type="1"/>
     )
 }

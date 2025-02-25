@@ -1,0 +1,13 @@
+
+.img_photo_proj {
+    margin: 10px 10px 0 10px;
+    display: block;
+    width: calc(100% - 20px);
+    height: 250px;
+}
+
+.p_photo_proj_text {
+    font-size: 14px;
+    margin: 10px 10px 0 10px;
+    color: #ccc;
+}
