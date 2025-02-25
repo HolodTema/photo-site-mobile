@@ -22,12 +22,12 @@ export default function SectionHome() {
             </div>
             <Caption text="ПОРТФОЛИО"/>
             <div className="div_home_projects">
-                <LargeProjectIcon number="1"/>
-                <LargeProjectIcon number="2"/>
-                <LargeProjectIcon number="3"/>
-                <LargeProjectIcon number="4"/>
-                <LargeProjectIcon number="5"/>
-                <LargeProjectIcon number="6"/>
+                <LargeProjectIcon dest="proj1" number="1"/>
+                <LargeProjectIcon dest="proj2" number="2"/>
+                <LargeProjectIcon dest="proj3" number="3"/>
+                <LargeProjectIcon dest="proj1" number="4"/>
+                <LargeProjectIcon dest="proj1" number="5"/>
+                <LargeProjectIcon dest="proj1" number="6"/>
             </div>
         </div>
 
