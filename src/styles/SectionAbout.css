@@ -1,0 +1,75 @@
+
+.div_section_about {
+
+}
+
+.div_about_name {
+    margin-top: 10px;
+    position: relative;
+    width: 100vw;
+    height: 300px;
+    display: flex;
+}
+
+.img_about_name {
+    height: 100%;
+    width: 100%;
+}
+
+.div_about_name_text {
+    position: absolute;
+    bottom: 90px;
+    left: 20px;
+}
+.p_about_name {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+
+.p_about_name_caption {
+    font-size: 20px;
+    color: #ccc;
+    font-weight: 700;
+}
+
+.p_about_desc {
+    padding: 10px 10px 0 10px;
+    color: #ccc;
+    font-size: 14px;
+}
+
+.div_about_sign {
+    padding: 10px 10px 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.div_about_sign_line {
+    height: 2px;
+    background-color: white;
+    flex-grow: 1;
+}
+
+.img_about_sign {
+    width: 80px;
+    height: 50px;
+}
+
+.div_about_work_type_cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.div_about_company_cards {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px
+}

@@ -1,0 +1,10 @@
+
+.div_home_slider {
+    width: 1vw;
+    height: 220px;
+    display: flex;
+}
+
+.img_home_slider {
+    object-fit: fill;
+}

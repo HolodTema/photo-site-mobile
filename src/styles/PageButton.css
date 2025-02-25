@@ -1,0 +1,19 @@
+
+.div_page_button {
+
+}
+.p_page_button {
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.div_page_button_line {
+    height: 2px;
+    background-color: transparent;
+    transition: background-color 0.3s;
+}
+
+.div_page_button:hover .div_page_button_line {
+    background-color: white;
+}

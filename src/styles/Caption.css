@@ -1,0 +1,17 @@
+
+.div_caption {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    background-color: transparent;
+}
+
+.div_caption_line {
+    height: 2px;
+    width: 50px;
+    background-color: white;
+}
+
+.p_caption {
+    font-size: 20px;
+}

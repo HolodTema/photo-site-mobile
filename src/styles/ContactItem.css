@@ -1,0 +1,16 @@
+
+.div_contact_item {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_contact_item {
+    width: 30px;
+    height: 30px;
+}
+
+.p_contact_item {
+    font-size: 14px;
+}

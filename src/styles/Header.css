@@ -1,0 +1,29 @@
+
+.header {
+    background-image: url("../images/header_background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.div_header_items {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.img_header_logo {
+    width: 200px;
+    object-fit: contain;
+}
+
+.div_header_buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}

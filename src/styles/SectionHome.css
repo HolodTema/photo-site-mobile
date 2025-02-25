@@ -1,0 +1,30 @@
+
+.div_section_home {
+}
+
+
+.div_home_contacts_socials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.div_home_contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.div_home_socials {
+    display: flex;
+    gap: 5px;
+}
+
+.div_home_projects {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+}

@@ -1,0 +1,11 @@
+
+
+.div_company_card {
+    width: 140px;
+    height: 60px;
+    display: flex;
+}
+.img_company_card {
+    width: 100%;
+    object-fit: contain;
+}
