@@ -1,0 +1,28 @@
+
+.div_price_item {
+    padding: 20px 10px;
+    border: 2px white solid;
+    width: 160px;
+
+}
+
+.p_price_item_name {
+    text-align: center;
+    font-size: 20px;
+}
+
+.p_price_item_caption_since {
+    text-align: center;
+    font-size: 14px;
+}
+
+.p_price_item_price {
+    font-size: 20px;
+    text-align: center;
+}
+
+.p_price_item_desc {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: left;
+}
